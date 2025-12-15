@@ -32,3 +32,5 @@ class Controller:
             self._view.txt_result.controls.append(ft.Text("Inserisci un id valido"))
             self._view.update_page()
 
+    def handleCercaOggetti(self):
+        pass
